@@ -1,3 +1,13 @@
-# mini-game
+# 🌼프로젝트명: 미니 의류 스토어
 
-Shopping mall mini-game
+> 목적: 웹 프론트엔드 기초 다지기
+
+## 🔨사용된 기술
+
+- HTML5
+- CSS3
+
+## 설명
+
+1. Semantic tac를 사용한 마크업
+2. Entity code를 활용한 특수문자 마크업
