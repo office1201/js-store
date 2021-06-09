@@ -46,4 +46,4 @@
 
 ## 🎨 스크립트
 
-- git clone https://github.com/office1201/Westagram-Project.git
+- git clone https://github.com/office1201/Mini-Store.git
