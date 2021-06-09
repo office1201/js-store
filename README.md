@@ -42,7 +42,7 @@
 ## 🌄 출처 및 정보
 
 - Dream Coding Academy: https://academy.dream-coding.com/
-- bloging: https://velog.io/@nakiaathome/%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%BD%94%EB%93%9CEntity-Code
+- Bloging: https://velog.io/@nakiaathome/%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%BD%94%EB%93%9CEntity-Code
 
 ## 🎨 스크립트
 
