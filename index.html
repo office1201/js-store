@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>&gt; Mini Store</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="src/main.js" defer></script>
   </head>
   <body>
     <!-- Logo -->
@@ -12,17 +13,17 @@
     <!-- Buttons -->
     <section class="btns">
       <button class="btn">
-        <img src="img/blue_t.png" alt="티셔츠" class="imgBtn" />
+        <img src="img/blue_t.png" alt="티셔츠" class="imgBtn" data-key="type" data-value="티셔츠" />
       </button>
       <button class="btn">
-        <img src="img/blue_p.png" alt="바지" class="imgBtn" />
+        <img src="img/blue_p.png" alt="바지" class="imgBtn" data-key="type" data-value="바지" />
       </button>
       <button class="btn">
-        <img src="img/blue_s.png" alt="치마" class="imgBtn" />
+        <img src="img/blue_s.png" alt="치마" class="imgBtn" data-key="type" data-value="치마" />
       </button>
-      <button class="btn colorBtn blue">Blue</button>
-      <button class="btn colorBtn yellow">Yellow</button>
-      <button class="btn colorBtn pink">Pink</button>
+      <button class="btn colorBtn blue" data-key="color" data-value="blue">Blue</button>
+      <button class="btn colorBtn yellow" data-key="color" data-value="yellow">Yellow</button>
+      <button class="btn colorBtn pink" data-key="color" data-value="pink">Pink</button>
     </section>
     <!-- Items -->
     <ul class="items">
