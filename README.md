@@ -37,7 +37,7 @@
 ## 📝 레퍼런스
 
 - MDN: https://developer.mozilla.org/ko/
-- Entiti code: https://dev.w3.org/html5/html-author/charref/
+- Entiti code: https://dev.w3.org/html5/html-author/charref
 
 ## 🌄 출처 및 정보
 
